@@ -4,11 +4,6 @@ import java.util.Scanner;
 import java.util.Stack;
 
 
-
-// 暴力解吧
-import java.util.Scanner;
-        import java.util.*;
-
 public class qustion1 {
     public static void main(String[] args) {
 
@@ -16,9 +11,6 @@ public class qustion1 {
         int n = in.nextInt();    //这个是有几组
 
         getnums(n);
-
-
-
     }
     public static void getnums(int n){
 
